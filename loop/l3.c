@@ -12,6 +12,7 @@ int main()
 		{
 			sum=sum +i;
 		}
+
 	}
 	if(sum==n)
 	{
